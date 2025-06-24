@@ -8,8 +8,8 @@ personal_details = {
     "Age": 20,
     "Date of Birth": "13th May 2004",
     "Address": "No:2 karumari amman kovil 2nd street kapsa A, Ambur-635802",
-    "Contact Number": "9487504821",
-    "Emergency Contact": "9342314749",
+    "Contact Number": "9345678290",
+    "Emergency Contact": "9343456789",
     "Report Date": "14th September 2024",
     "Medical Record Number": "270-XYZ-123"
 }
