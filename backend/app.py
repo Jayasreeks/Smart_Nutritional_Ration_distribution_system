@@ -968,22 +968,6 @@ def submit_nutrition_data():
         app.logger.error('Error while submitting nutrition data: %s', str(e))
         return jsonify({'message': 'An error occurred while submitting nutrition data.'}), 500
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Analytical data
 
 @app.route('/three_avg_metrics', methods=['GET'])
@@ -1279,7 +1263,7 @@ def ViewPDF():
     }
     import base64
     pdf=nutritional_data(nutrition_data, citizen_data)
-    file_path = r'C:\Users\monis\OneDrive\Documents\pds\backend\nutritional_results_with_units.pdf'
+    file_path = r'/home/jayasree-ks/Projects/Ration_distribution_system/backend/nutritional_results_with_units.pdf'
     try:
         with open(file_path, 'rb') as file:
             blob_data = file.read()  # Read the file as binary
