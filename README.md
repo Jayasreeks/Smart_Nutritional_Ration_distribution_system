@@ -3,6 +3,14 @@
 ## Overview
 The **Smart Nutritional Ration Distribution System** is a web-based platform designed to optimize the allocation of food subsidies based on individual nutritional needs. The system integrates **React, PostgreSQL, Python, Rule-Based Systems, and Case-Based Systems** to provide a data-driven approach to food distribution.
 
+## Database Design
+
+![Database Design](./DatabaseDesign.png)
+
+## System Architecture
+
+![System Architecture](./SystemArchitecture.png)
+
 ## Features
 
 ### 1. Role-Based Access Control (RBAC)
