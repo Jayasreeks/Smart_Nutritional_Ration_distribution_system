@@ -5,11 +5,11 @@ The **Smart Nutritional Ration Distribution System** is a web-based platform des
 
 ## Database Design
 
-![Database Design](./DatabaseDesign.png)
+![Database Design](./Database Design.jpg)
 
 ## System Architecture
 
-![System Architecture](./SystemArchitecture.png)
+![System Architecture](./System Architecture.jpeg)
 
 ## Features
 
