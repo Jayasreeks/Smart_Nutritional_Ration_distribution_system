@@ -34,5 +34,5 @@ The **Smart Nutritional Ration Distribution System** is a web-based platform des
 - **Frontend:** React.js
 - **Backend:** Python
 - **Database:** PostgreSQL
-- **Authorization & Authentication:** Role-Based Access Control (RBAC)
+- **Authorization & Authentication:** Role-Based Access Control (RBAC) for all the users incuding citizens, central Admin, Diagnostic centers and Ration shops.
 - **Logic Implementation:** Rule-Based System & Case-Based System
